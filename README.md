@@ -2,7 +2,7 @@
 
 一个 [reveal-md](https://github.com/webpro/reveal-md) 的简单主题，部分参考了 [jyywiki](https://jyywiki.cn) 的主题。（应该会随着我的使用不断更新）
 
-预览：https://slides.tonycrane.cc/RevealmdTemplate
+预览：https://slides.jujimeizuo.cn/RevealmdTemplate
 
 - custom.css：亮色主题，载入即可
 - dark.css：暗色配置，使用需附带在 custom.css 后面

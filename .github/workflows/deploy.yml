@@ -18,8 +18,8 @@ jobs:
         API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
       with:
         source_file: 'slide/site/.'
-        destination_repo: 'TonyCrane/slides'
+        destination_repo: 'jujimeizuo/slides'
         destination_branch: 'master'
         destination_folder: 'RevealmdTemplate'
-        user_email: 'tonycrane@foxmail.com'
-        user_name: 'TonyCrane'
+        user_email: 'fengzetao.zed@foxmail.com'
+        user_name: 'jujimeizuo'
